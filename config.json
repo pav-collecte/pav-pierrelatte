@@ -1,0 +1,37 @@
+{
+  "_": "Généré par n8n depuis l’onglet Parametres du classeur de la commune. Ne pas modifier ici : ce serait écrasé.",
+  "commune": {
+    "nom": "Pierrelatte",
+    "departement": "26",
+    "codePostal": "26700",
+    "codeInsee": "26235",
+    "prefixeCode": "PIE",
+    "maire": "Alain GALLU",
+    "telephone": "04 75 96 97 00",
+    "email": "mairie@ville-pierrelatte.fr",
+    "siteMairie": "https://www.ville-pierrelatte.fr/",
+    "logo": "logo.png",
+    "logoDrive": "https://drive.google.com/file/d/1EBolb8wZgQAhirfTKXJrSOe9gjB4hQBb/view"
+  },
+  "adresses": {
+    "application": "https://pav-collecte.github.io/pav-pierrelatte/",
+    "meteo": "https://pav-collecte.github.io/pav-pierrelatte/meteo/",
+    "referentiel": "meteo/donnees.json"
+  },
+  "terrain": {
+    "rayonM": 100,
+    "precisionMaxM": 30,
+    "alerteJours": 2
+  },
+  "mentions": {
+    "source": "classeur de la commune, feuilles Référentiel et Observations"
+  },
+  "depot": {
+    "endpoint": "https://n8n.srv1040760.hstgr.cloud/webhook/pav-photo"
+  },
+  "photos": {
+    "hebergeur": "google-drive",
+    "vue": "https://drive.google.com/file/d/{id}/view",
+    "vignette": "https://drive.google.com/thumbnail?id={id}&sz=w{largeur}"
+  }
+}
