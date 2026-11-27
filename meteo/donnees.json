@@ -1,7 +1,7 @@
 {
  "commune": "Pierrelatte",
  "departement": "26",
- "maj": "2026-11-26T23:46:31Z",
+ "maj": "2026-11-27T15:46:17Z",
  "source": "classeur des relevés de Pierrelatte",
  "referentiel": [],
  "aVerifier": [
@@ -27,6 +27,78 @@
    "lat": 44.385388,
    "lon": 4.70049,
    "flux": "verre",
+   "nbUnites": 1
+  },
+  {
+   "site": "PIE-03",
+   "nom": "Route de Talencieux",
+   "lat": 45.239853,
+   "lon": 4.796071,
+   "flux": "ordures_menageres",
+   "nbUnites": 1
+  },
+  {
+   "site": "PIE-03",
+   "nom": "Route de Talencieux",
+   "lat": 45.239853,
+   "lon": 4.796071,
+   "flux": "emballages",
+   "nbUnites": 1
+  },
+  {
+   "site": "PIE-03",
+   "nom": "Route de Talencieux",
+   "lat": 45.239853,
+   "lon": 4.796071,
+   "flux": "verre",
+   "nbUnites": 1
+  },
+  {
+   "site": "PIE-03",
+   "nom": "Route de Talencieux",
+   "lat": 45.239853,
+   "lon": 4.796071,
+   "flux": "papier",
+   "nbUnites": 1
+  },
+  {
+   "site": "PIE-03",
+   "nom": "Route de Talencieux",
+   "lat": 45.239853,
+   "lon": 4.796071,
+   "flux": "carton",
+   "nbUnites": 1
+  },
+  {
+   "site": "PIE-03",
+   "nom": "Route de Talencieux",
+   "lat": 45.239853,
+   "lon": 4.796071,
+   "flux": "textile",
+   "nbUnites": 1
+  },
+  {
+   "site": "PIE-04",
+   "nom": "Chemin Côte de Montalivet",
+   "lat": 45.235326,
+   "lon": 4.798338,
+   "flux": "verre",
+   "nbUnites": 1
+  },
+  {
+   "site": "PIE-04",
+   "nom": "Chemin Côte de Montalivet",
+   "lat": 45.235326,
+   "lon": 4.798338,
+   "flux": "emballages",
+   "nbUnites": 1
+  },
+  {
+   "site": "PIE-04",
+   "nom": "Chemin Côte de Montalivet",
+   "lat": 45.235326,
+   "lon": 4.798338,
+   "flux": "papier",
    "nbUnites": 1
   }
  ],
